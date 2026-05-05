@@ -97,7 +97,7 @@ Streamlit表示 / PDFダウンロード
 
 ```bash
 git clone <repository-url>
-cd poc-006-supervisoragent
+cd poc-006-langgraph-supervisor-multiagent
 ```
 
 ### 2. 依存関係をインストール
