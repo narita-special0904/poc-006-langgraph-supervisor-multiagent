@@ -1,0 +1,23 @@
+# LangChain関連
+langchain-core
+langchain-openai
+langchain-tavily
+
+# LangGraph関連
+langgraph-supervisor
+langgraph
+
+# UI関連
+streamlit
+
+# PDF関連
+PyMuPDF
+reportlab
+markdown
+beautifulsoup4
+
+# グラフ・可視化
+matplotlib
+
+# Others
+python-dotenv
